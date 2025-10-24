@@ -1,0 +1,7 @@
+C:\Users\Prodigy technovation\source\roundTwo\C#_Task01_output.txt\C#_Task01_output.txt\bin\Debug\C#_Task01_output.txt.exe.config
+C:\Users\Prodigy technovation\source\roundTwo\C#_Task01_output.txt\C#_Task01_output.txt\bin\Debug\C#_Task01_output.txt.exe
+C:\Users\Prodigy technovation\source\roundTwo\C#_Task01_output.txt\C#_Task01_output.txt\bin\Debug\C#_Task01_output.txt.pdb
+C:\Users\Prodigy technovation\source\roundTwo\C#_Task01_output.txt\C#_Task01_output.txt\obj\Debug\C#_Task01_output.txt.csproj.AssemblyReference.cache
+C:\Users\Prodigy technovation\source\roundTwo\C#_Task01_output.txt\C#_Task01_output.txt\obj\Debug\C#_Task01_output.txt.csproj.CoreCompileInputs.cache
+C:\Users\Prodigy technovation\source\roundTwo\C#_Task01_output.txt\C#_Task01_output.txt\obj\Debug\C#_Task01_output.txt.exe
+C:\Users\Prodigy technovation\source\roundTwo\C#_Task01_output.txt\C#_Task01_output.txt\obj\Debug\C#_Task01_output.txt.pdb
