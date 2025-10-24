@@ -1,0 +1,7 @@
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK02_LINQDemo\C#_TASK02_LINQDemo\bin\Debug\C#_TASK02_LINQDemo.exe.config
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK02_LINQDemo\C#_TASK02_LINQDemo\bin\Debug\C#_TASK02_LINQDemo.exe
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK02_LINQDemo\C#_TASK02_LINQDemo\bin\Debug\C#_TASK02_LINQDemo.pdb
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK02_LINQDemo\C#_TASK02_LINQDemo\obj\Debug\C#_TASK02_LINQDemo.csproj.AssemblyReference.cache
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK02_LINQDemo\C#_TASK02_LINQDemo\obj\Debug\C#_TASK02_LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK02_LINQDemo\C#_TASK02_LINQDemo\obj\Debug\C#_TASK02_LINQDemo.exe
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK02_LINQDemo\C#_TASK02_LINQDemo\obj\Debug\C#_TASK02_LINQDemo.pdb
