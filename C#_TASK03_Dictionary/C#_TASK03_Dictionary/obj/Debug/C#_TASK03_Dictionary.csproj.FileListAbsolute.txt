@@ -1,0 +1,7 @@
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK03_Dictionary\C#_TASK03_Dictionary\bin\Debug\C#_TASK03_Dictionary.exe.config
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK03_Dictionary\C#_TASK03_Dictionary\bin\Debug\C#_TASK03_Dictionary.exe
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK03_Dictionary\C#_TASK03_Dictionary\bin\Debug\C#_TASK03_Dictionary.pdb
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK03_Dictionary\C#_TASK03_Dictionary\obj\Debug\C#_TASK03_Dictionary.csproj.AssemblyReference.cache
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK03_Dictionary\C#_TASK03_Dictionary\obj\Debug\C#_TASK03_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK03_Dictionary\C#_TASK03_Dictionary\obj\Debug\C#_TASK03_Dictionary.exe
+C:\Users\Prodigy technovation\source\roundTwo\C#_TASK03_Dictionary\C#_TASK03_Dictionary\obj\Debug\C#_TASK03_Dictionary.pdb
