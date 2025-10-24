@@ -1,0 +1,7 @@
+C:\Users\Prodigy technovation\source\roundTwo\C#TASK05_DataToFiles\C#TASK05_DataToFiles\bin\Debug\C#TASK05_DataToFiles.exe.config
+C:\Users\Prodigy technovation\source\roundTwo\C#TASK05_DataToFiles\C#TASK05_DataToFiles\bin\Debug\C#TASK05_DataToFiles.exe
+C:\Users\Prodigy technovation\source\roundTwo\C#TASK05_DataToFiles\C#TASK05_DataToFiles\bin\Debug\C#TASK05_DataToFiles.pdb
+C:\Users\Prodigy technovation\source\roundTwo\C#TASK05_DataToFiles\C#TASK05_DataToFiles\obj\Debug\C#TASK05_DataToFiles.csproj.AssemblyReference.cache
+C:\Users\Prodigy technovation\source\roundTwo\C#TASK05_DataToFiles\C#TASK05_DataToFiles\obj\Debug\C#TASK05_DataToFiles.csproj.CoreCompileInputs.cache
+C:\Users\Prodigy technovation\source\roundTwo\C#TASK05_DataToFiles\C#TASK05_DataToFiles\obj\Debug\C#TASK05_DataToFiles.exe
+C:\Users\Prodigy technovation\source\roundTwo\C#TASK05_DataToFiles\C#TASK05_DataToFiles\obj\Debug\C#TASK05_DataToFiles.pdb
